@@ -11,7 +11,7 @@ sudo apt-get install screen
 screen -S Gaianet
    
    Then Paste this command :
-# wget https://raw.githubusercontent.com/king00719/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
+         wget https://raw.githubusercontent.com/king00719/gaianet-node/main/script.sh && chmod +x script.sh && ./script.sh
 
 
 
